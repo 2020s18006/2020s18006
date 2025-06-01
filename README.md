@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mass Aslam Brantha</h1>
 <h3 align="center">A passionate Data Scientist from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently working as a intern Data scientist at Dialog Axiata PLC
 
 - 📫 How to reach me **maslambrantha@gmail.com**
 
