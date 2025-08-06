@@ -28,7 +28,7 @@
 
 ---
 
-### 📈 Projects Highlights
+### 📈 Industry Projects Highlights
 
 - 🧠 **Dynamic Pricing Model** – Built and deployed ML pipeline using Amazon SageMaker, Snowflake, and AWS CloudWatch for Dialog Axiata  
 - 📊 **Dashboard Development** – Created SQL-based interactive dashboards for performance monitoring  
