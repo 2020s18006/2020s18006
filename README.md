@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mass Aslam Brantha</h1>
 <h3 align="center">A passionate AI/ML Engineer & Data Scientist from Sri Lanka</h3>
 
-- 🎓 Recent graduate in **Statistics** from the **University of Colombo**  
+- 🎓 Recent graduate with a **BSc (Hons) in Statistics** from the **University of Colombo**
 - 🧠 Intern Data Scientist at **Dialog Axiata PLC** – built ML models, dashboards, and AI agents  
 - 🚀 Enthusiastic about **machine learning**, **cloud computing**, and **Generative AI**  
 - 📬 Reach me at **maslambrantha@gmail.com**
